@@ -19,4 +19,3 @@
 
 ![hello-world-seytonic (1)](https://github.com/user-attachments/assets/2639d285-44b2-44ec-b47e-bb327ab03601)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=batcsg1&show_icons=true&locale=en" alt="batcsg1" /></p>
