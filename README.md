@@ -1,7 +1,7 @@
 <h1 align="center">Salutations 👋, I'm Samuel Batchelor aka @batcsg1</h1>
 
 <h3>Intro:</h3>
-<p>I'm a 2nd year studying the Bachelor of Information Technology Student @ <a href="https://www.op.ac.nz">Otago Polytechnic</a>.
+<p>I'm a 2nd year student studying the Bachelor of Information Technology @ <a href="https://www.op.ac.nz">Otago Polytechnic</a>.
 I'm very passionate about learning how to work and deal with physical systems/hardware. I am also eager when it comes to building home lab projects not only as a hobby, but also a way to expand my IT experitise.</p>
 
 <h3>Specializations:</h3>
