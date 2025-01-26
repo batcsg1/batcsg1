@@ -23,7 +23,7 @@ I'm very passionate about learning how to work and deal with physical systems/ha
 <ul style="list-style: none;">
     <li>
         <p>
-            <a href="https://www.linkedin.com/in/samuel-batchelor-522145262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel batchelor" height="30" width="40" /></a> Linkedin
+            <a href="https://www.linkedin.com/in/samuel-batchelor-522145262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel batchelor" height="30" width="40" /></a> Linkedin (going to my domain <a href="batchelornz.com">batchelornz.com</a>, redirects to my Linkedin because I'm too lazy to create a main page, sorry)
         </p>
     </li>
     <li>
