@@ -18,8 +18,8 @@ I'm very passionate about learning how to work and deal with physical systems/ha
     <li>🐧 Linux Systems</li>
     <li>➕ Maths</li>
 </ul>
-<p>Check out my <a href="https://github.com/user-attachments/files/18730456/Samuel.Batchelor.-.Resume.pdf">resume
-</a></p>
+<p>Check out my <a href="https://github.com/user-attachments/files/18730456/Samuel.Batchelor.-.Resume.pdf" download>resume</a></p>
+
 
 <h3 align="left">Connect with me on:</h3>
 <ul style="list-style: none;">
