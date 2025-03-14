@@ -70,3 +70,7 @@ I'm very passionate about learning how to work and deal with physical systems/ha
 <h3>Projects:</h3>
 <p>🌐 My first live production website developed using Svelte @ <a href="https://solsys.batchelornz.com">solsys.batchelornz.com</a></p>
 <p>🌍🚨 A disaster management system website project @ <a href="https://5-stooges-disaster-management-system.netlify.app">5-stooges-disaster-management-system.netlify.app</a> </p>
+
+![batcsg1's Stats](https://github-readme-stats.vercel.app/api?username=batcsg1&theme=cobalt&show_icons=true&hide_border=false&count_private=true)
+
+![batcsg1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=batcsg1&theme=cobalt&show_icons=true&hide_border=false&layout=compact)
