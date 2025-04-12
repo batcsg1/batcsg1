@@ -68,8 +68,11 @@ I'm very passionate about learning how to work and deal with physical systems/ha
 <p>📸 My self-hosted photo and video server @ <a href="https://immich.batchelornz.com">immich.batchelornz.com</a>🎥</p>
 
 <h3>Projects:</h3>
-<p>🌐 My first live production website developed using Svelte @ <a href="https://solsys.batchelornz.com">solsys.batchelornz.com</a></p>
-<p>🌍🚨 A disaster management system website project @ <a href="https://5-stooges-disaster-management-system.netlify.app">5-stooges-disaster-management-system.netlify.app</a> </p>
+<p>🌐🪐 My first live production website developed using Svelte @ <a href="https://solsys.batchelornz.com">solsys.batchelornz.com</a></p>
+<p>🌍🚨 A disaster management system website project @ <a href="https://theantistatics.netlify.app">theantistatics.netlify.app</a></p>
+<p>🌱💦 Smart irrigation system called <a href="https://github.com/batcsg1/PlantMate">PlantMate</a></p>
+<p>{ : } 🪐<a href="https://github.com/otago-polytechnic-bit-courses/id607001-s1-25-batcsg1/tree/project">CelestiDB REST API</a> — a RESTful API for managing a celestial object database.</p>
+
 
 ![batcsg1's Stats](https://github-readme-stats.vercel.app/api?username=batcsg1&theme=cobalt&show_icons=true&hide_border=false&count_private=true)
 
