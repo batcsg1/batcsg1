@@ -2,7 +2,7 @@
 
 <h3>Intro:</h3>
 <p>I'm a 2nd year student studying the Bachelor of Information Technology @ <a href="https://www.op.ac.nz">Otago Polytechnic</a>.
-I'm very passionate about learning how to work and deal with physical systems/hardware. I am also eager when it comes to building home lab projects not only as a hobby, but also a way to expand my IT experitise.</p>
+I'm very passionate about learning how to work with physical systems/hardware as well as software. I am also eager when it comes to building home lab projects not only as a hobby, but also a way to expand my IT experitise.</p>
 
 <h3>Specializations:</h3>
 <ul style="list-style: none;">
