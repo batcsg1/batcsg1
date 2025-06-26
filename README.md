@@ -43,9 +43,13 @@
 </ul>
 <p>Check out my <a href="https://github.com/user-attachments/files/18730456/Samuel.Batchelor.-.Resume.pdf">resume</a></p>
 
-<h3 align="left">⚙️ Technology tools I use:</h3>
+### ⚙️ Technology tools I use:
 
-[![My Skills](https://skillicons.dev/icons?i=cs,js,html,css,arduino,docker,git,linux,bash,py,nodejs,postgres,prisma,raspberrypi,svelte,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,js,html,css,arduino,docker,git,bash,py,nodejs,postgres,prisma,linux,svelte,cpp,powershell,vscode,express,azure,netlify,sqlite,cloudflare,npm)](https://skillicons.dev)
+
+### Linux distros I use:
+
+[![My Skills](https://skillicons.dev/icons?i=raspberrypi,ubuntu,mint)](https://skillicons.dev)
 
 <h3 align="left">My Love and Passion:</h3>
 <p>📸 My self-hosted photo and video server @ <a href="https://immich.batchelornz.com">immich.batchelornz.com</a>🎥</p>
