@@ -86,4 +86,4 @@
 <p>🌐🪐 My first live production website developed using Svelte @ <a href="https://solsys.batchelornz.com">solsys.batchelornz.com</a></p>
 <p>🌍🚨 A disaster management system website project @ <a href="https://theantistatics.netlify.app">theantistatics.netlify.app</a></p>
 <p>🌱💦 Smart irrigation system called <a href="https://github.com/batcsg1/PlantMate">PlantMate</a></p>
-<p>{ : } 🪐<a href="https://github.com/batcsg1/celestiDB">CelestiDB REST API</a> — a RESTful API for managing a celestial object database.</p>
+<p>{ : } 🪐<a href="https://github.com/batcsg1/celestiDB">celestiDB</a> — a RESTful API for exploring and finding stuff about the universe</p>
