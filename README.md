@@ -1,8 +1,14 @@
-<h1 align="center">Salutations 👋, I'm Samuel Batchelor aka @batcsg1</h1>
+<h1 align="center">
+    Salutations 👋, I'm Samuel Batchelor aka @batcsg1
+</h1>
+<div align="center" style="display: flex; gap: 8px; justify-content: center;">
+  <a href="https://www.linkedin.com/in/samuel-batchelor-nz"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square" /></a>
+  <a href="https://www.facebook.com/samuel.batchelor2005"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=flat-square" /></a>
+  <a href="mailto:samuelbatchelor05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square" /></a>
+</div>
 
 <h3>Intro:</h3>
-<p>I'm a 2nd year student studying the Bachelor of Information Technology @ <a href="https://www.op.ac.nz">Otago Polytechnic</a>.
-I'm very passionate about learning how to work with physical systems/hardware as well as software. I am also eager when it comes to building home lab projects not only as a hobby, but also a way to expand my IT experitise.</p>
+<p>I'm a 2nd year IT student who is passionate about networks, application development, cyber security, the cloud, programming and in general, how computers work. I am eager when it comes to building home lab projects not only as a hobby, but also a way to expand my IT experitise. Alongside studying IT, I am also working as a technical junior.</p>
 
 <h3>Specializations:</h3>
 <ul style="list-style: none;">
@@ -14,9 +20,10 @@ I'm very passionate about learning how to work with physical systems/hardware as
     <li>🗄️ Database Management</li>
     <li>🎨 Frontend Development</li>
     <li>⚙️ Backend Devlopment</li>
-    <li>🧑‍💻 Application Development</li>
     <li>💻 Programming</li>
+    <li>🛡️ Cyber Security</li>
     <li>🐧 Linux Systems</li>
+    <li>☁️ Cloud Computing</li>
     <li>➕ Maths</li>
 </ul>
 <p>Check out my <a href="https://github.com/user-attachments/files/18730456/Samuel.Batchelor.-.Resume.pdf">resume</a></p>
