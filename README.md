@@ -22,39 +22,42 @@
 
 </div>
 
-<h3>Intro:</h3>
-<p>Kia Ora, I'm a 2nd year IT student @ <a href="https://www.op.ac.nz">Otago Polytechnic</a> who is passionate about networks, application development, cyber security, the cloud, programming and in general, how computers work. I am eager when it comes to building home lab projects not only as a hobby, but also a way to expand my IT expertise. Alongside studying IT, I am also working as a technical junior.</p>
+### Intro:
 
-<h3>Specializations:</h3>
-<ul style="list-style: none;">
-    <li><p>💻 Technical Administrator at <a href="https://entireit.nz"/>Entire IT</a>, since September 2023</p></li>
-</ul>
-<p>My fields of interest in IT are:</p>
-<ul>
-    <li>🌐 Networking </li>
-    <li>🗄️ Database Management</li>
-    <li>🎨 Frontend Development</li>
-    <li>⚙️ Backend Devlopment</li>
-    <li>💻 Programming</li>
-    <li>🛡️ Cyber Security</li>
-    <li>🐧 Linux Systems</li>
-    <li>☁️ Cloud Computing</li>
-    <li>➕ Maths</li>
-</ul>
-<p>Check out my <a href="https://github.com/user-attachments/files/18730456/Samuel.Batchelor.-.Resume.pdf">resume</a></p>
+Kia Ora, I'm a 2nd year IT student at [Otago Polytechnic](https://www.op.ac.nz) who is passionate about networks, application development, cyber security, the cloud, programming and in general, how computers work. I am eager when it comes to building home lab projects not only as a hobby, but also a way to expand my IT expertise. Alongside studying IT, I am also working as a technical junior.
+
+### Specializations:
+
+- 💻 Technical Administrator at [Entire IT](https://entireit.nz), since September 2023
+
+My fields of interest in IT are:
+
+- 🌐 Networking  
+- 🗄️ Database Management  
+- 🎨 Frontend Development  
+- ⚙️ Backend Development  
+- 💻 Programming  
+- 🛡️ Cyber Security  
+- 🐧 Linux Systems  
+- ☁️ Cloud Computing  
+- ➕ Maths  
+
+📄 [Check out my resume](https://github.com/user-attachments/files/18730456/Samuel.Batchelor.-.Resume.pdf)
+
 
 ### ⚙️ Technology tools I use:
 
 [![My Skills](https://skillicons.dev/icons?i=cs,js,html,css,arduino,docker,git,bash,py,nodejs,postgres,prisma,linux,svelte,cpp,powershell,vscode,express,azure,netlify,sqlite,cloudflare,npm)](https://skillicons.dev)
 
-### Linux distros I use:
+### 🐧 Linux distros I use:
 
 [![My Skills](https://skillicons.dev/icons?i=raspberrypi,ubuntu,mint)](https://skillicons.dev)
 
-<h3 align="left">My Love and Passion:</h3>
+### My Love and Passion:
+
 <p>📸 My self-hosted photo and video server @ <a href="https://immich.batchelornz.com">immich.batchelornz.com</a>🎥</p>
 
-<h3>Projects:</h3>
+### Projects:
 <p>🌐🪐 My first live production website developed using Svelte @ <a href="https://solsys.batchelornz.com">solsys.batchelornz.com</a></p>
 <p>🌍🚨 A disaster management system website project @ <a href="https://theantistatics.netlify.app">Disaster Management Aotearoa</a></p>
 <p>🌱💦 Smart irrigation system for plants called <a href="https://github.com/batcsg1/PlantMate">PlantMate</a></p>
