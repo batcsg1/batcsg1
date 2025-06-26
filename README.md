@@ -14,6 +14,7 @@ I'm very passionate about learning how to work with physical systems/hardware as
     <li>🗄️ Database Management</li>
     <li>🎨 Frontend Development</li>
     <li>⚙️ Backend Devlopment</li>
+    <li>🧑‍💻 Application Development</li>
     <li>💻 Programming</li>
     <li>🐧 Linux Systems</li>
     <li>➕ Maths</li>
