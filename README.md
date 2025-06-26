@@ -1,4 +1,7 @@
-<h1 align="center">
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/15eecc16-80b8-4739-826d-b51743aee3cf" alt="pfp" height=150 />
+</div>
+<h1 align="center">   
     Salutations 👋, I'm Samuel Batchelor aka @batcsg1
 </h1>
 <div align="center" style="display: flex; gap: 8px; justify-content: center;">
@@ -8,7 +11,7 @@
 </div>
 
 <h3>Intro:</h3>
-<p>I'm a 2nd year IT student who is passionate about networks, application development, cyber security, the cloud, programming and in general, how computers work. I am eager when it comes to building home lab projects not only as a hobby, but also a way to expand my IT experitise. Alongside studying IT, I am also working as a technical junior.</p>
+<p>Kia Ora, I'm a 2nd year IT student @ <a href="https://www.op.ac.nz">Otago Polytechnic</a> who is passionate about networks, application development, cyber security, the cloud, programming and in general, how computers work. I am eager when it comes to building home lab projects not only as a hobby, but also a way to expand my IT expertise. Alongside studying IT, I am also working as a technical junior.</p>
 
 <h3>Specializations:</h3>
 <ul style="list-style: none;">
