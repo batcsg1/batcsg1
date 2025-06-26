@@ -4,6 +4,10 @@
 <h1 align="center">   
     Salutations 👋, I'm Samuel Batchelor aka @batcsg1
 </h1>
+<h2 align="center">
+  2nd Year IT Student and Avid Tech Enthusiast
+</h2>
+
 <div align="center" style="display: flex; gap: 8px; justify-content: center;">
   <a href="https://www.linkedin.com/in/samuel-batchelor-nz"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square" /></a>
   <a href="https://www.facebook.com/samuel.batchelor2005"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=flat-square" /></a>
