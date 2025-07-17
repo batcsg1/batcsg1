@@ -42,7 +42,7 @@ My fields of interest in IT are:
 - ☁️ Cloud Computing  
 - ➕ Maths  
 
-📄 [Resume.pdf](https://github.com/user-attachments/files/21305004/Resume.pdf)
+📄 [Check out my resume](https://github.com/user-attachments/files/21305004/Resume.pdf)
 
 ### ⚙️ Technology tools I use:
 
