@@ -42,8 +42,7 @@ My fields of interest in IT are:
 - ☁️ Cloud Computing  
 - ➕ Maths  
 
-📄 [Check out my resume](https://github.com/user-attachments/files/18730456/Samuel.Batchelor.-.Resume.pdf)
-
+📄 [Resume.pdf](https://github.com/user-attachments/files/21305004/Resume.pdf)
 
 ### ⚙️ Technology tools I use:
 
