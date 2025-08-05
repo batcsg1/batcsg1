@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/15eecc16-80b8-4739-826d-b51743aee3cf" alt="pfp" height=150 />
-</div>
+
 <h1 align="center">   
     Salutations 👋, I'm Samuel Batchelor aka @batcsg1
 </h1>
