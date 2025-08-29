@@ -44,7 +44,7 @@ My fields of interest in IT are:
 
 ### ⚙️ Technology tools I use:
 
-[![My Skills](https://skillicons.dev/icons?i=cs,js,html,css,arduino,docker,git,bash,py,nodejs,postgres,prisma,linux,svelte,cpp,powershell,vscode,express,azure,netlify,sqlite,cloudflare,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,js,html,css,arduino,docker,git,bash,py,nodejs,postgres,prisma,linux,svelte,cpp,powershell,vscode,express,azure,netlify,sqlite,cloudflare,npm,mysql)](https://skillicons.dev)
 
 ### 🐧 Linux distros I use:
 
