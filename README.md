@@ -1,7 +1,9 @@
-
-<h1 align="center">   
-    Salutations 👋, I'm Samuel Batchelor aka @batcsg1
-</h1>
+<div align="center">
+<picture>
+<source srcset="https://github.com/user-attachments/assets/082edf35-7ac9-499a-96ac-c0a3b4cbdcb0" media="(prefers-color-scheme: dark)">
+<img width="902" height="308" alt="image" src="https://github.com/user-attachments/assets/05679697-26e6-4484-91d8-9047182e8eca" />
+</picture>
+</div>
 <h2 align="center">
   2nd Year IT Student and Avid Tech Enthusiast
 </h2>
