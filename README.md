@@ -56,8 +56,10 @@ My fields of interest in IT are:
 
 <p>📸 My self-hosted photo and video server @ <a href="https://immich.batchelornz.com">immich.batchelornz.com</a>🎥</p>
 
+<!--https://theantistatics.netlify.app-->
+
 ### Projects:
 <p>🌐🪐 My first live production website developed using Svelte @ <a href="https://solsys.batchelornz.com">solsys.batchelornz.com</a></p>
-<p>🌍🚨 A disaster management system website project @ <a href="https://theantistatics.netlify.app">Disaster Management Aotearoa</a></p>
+<p>🌍🚨 A disaster management system website project @ <a href="http://dma-nz.duckdns.org">Disaster Management Aotearoa</a></p>
 <p>🌱💦 Smart irrigation system for plants called <a href="https://github.com/batcsg1/PlantMate">PlantMate</a></p>
 <p>{ : } 🪐<a href="https://celestidb.onrender.com/api-docs">celestiDB</a> — a RESTful API for exploring and finding stuff about the universe</p>
