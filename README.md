@@ -1,4 +1,4 @@
-<div align="center">
+[Resume.pdf](https://github.com/user-attachments/files/23383728/Resume.pdf)<div align="center">
 <picture>
 <source srcset="https://github.com/user-attachments/assets/082edf35-7ac9-499a-96ac-c0a3b4cbdcb0" media="(prefers-color-scheme: dark)">
 <img alt="image" src="https://github.com/user-attachments/assets/05679697-26e6-4484-91d8-9047182e8eca" />
@@ -42,7 +42,8 @@ My fields of interest in IT are:
 - ☁️ Cloud Computing  
 - ➕ Maths  
 
-📄 [Check out my resume](https://github.com/user-attachments/files/21305004/Resume.pdf)
+📄 [Check out my resume](https://github.com/user-attachments/files/23383729/Resume.pdf)
+
 
 ### ⚙️ Technology tools I use:
 
