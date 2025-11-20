@@ -4,8 +4,12 @@
 <img alt="image" src="https://github.com/user-attachments/assets/d5eea727-48ba-4537-a6ce-5022efede225" />
 </picture>
 </div>
+
 <h2 align="center">
-  2nd Year IT Student and Avid Tech Enthusiast
+<picture>
+<source srcset="https://github.com/user-attachments/assets/63108358-9e1e-4529-a988-dbe7f8343172" media="(prefers-color-scheme: dark)" height="100">
+<img alt="image" src="https://github.com/user-attachments/assets/5590d888-087f-42d0-ac40-3c07be0f7346" height="100" />
+</picture>
 </h2>
 
 <div align="center">
