@@ -1,7 +1,7 @@
-[Resume.pdf](https://github.com/user-attachments/files/23383728/Resume.pdf)<div align="center">
+<div align="center">
 <picture>
-<source srcset="https://github.com/user-attachments/assets/082edf35-7ac9-499a-96ac-c0a3b4cbdcb0" media="(prefers-color-scheme: dark)">
-<img alt="image" src="https://github.com/user-attachments/assets/05679697-26e6-4484-91d8-9047182e8eca" />
+<source srcset="https://github.com/user-attachments/assets/e2f4831d-95ff-4956-acef-5448b773ad5a" media="(prefers-color-scheme: dark)">
+<img alt="image" src="https://github.com/user-attachments/assets/d5eea727-48ba-4537-a6ce-5022efede225" />
 </picture>
 </div>
 <h2 align="center">
