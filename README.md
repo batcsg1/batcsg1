@@ -26,16 +26,20 @@
 
 </div>
 
-### Intro:
+## Intro:
 
 Kia Ora, I'm a 2nd year IT student at [Otago Polytechnic](https://www.op.ac.nz) who is passionate about networks, application development, cyber security, the cloud, programming and in general, how computers work. I am particularly interested in building application and home lab projects not only as a hobby, but also as a way to expand my IT expertise. Alongside studying IT, I am also working as a technical junior.
 
-### Specializations:
+
+
+## Specializations:
 
 - 💻 Technical Administrator at [Entire IT](https://entireit.nz), since September 2023
 - 🎓 Peer Tutor at [Otago Polytechnic](https://www.op.ac.nz)
 
-My fields of interest in IT are:
+
+
+## Skillset:
 
 - 🌐 Networking  
 - 🗄️ Database Management  
@@ -45,26 +49,37 @@ My fields of interest in IT are:
 - 🛡️ Cyber Security  
 - 🐧 Linux Systems  
 - ☁️ Cloud Computing  
-- ➕ Maths  
-
-📄 [Check out my resume](https://github.com/user-attachments/files/23383729/Resume.pdf)
+- ➕ Maths
 
 
-### ⚙️ Technology tools I use:
 
-[![My Skills](https://skillicons.dev/icons?i=cs,js,html,css,arduino,docker,git,bash,py,nodejs,postgres,prisma,linux,svelte,cpp,powershell,vscode,express,azure,netlify,sqlite,cloudflare,npm,mysql)](https://skillicons.dev)
+## 📝 Resume: 
 
-### 🐧 Linux distros I use:
+<strong>[Check out my resume](https://github.com/user-attachments/files/23383729/Resume.pdf)</strong>
+
+
+## ⚙️ Technology tools I use:
+
+[![My Skills](https://skillicons.dev/icons?i=cs,js,html,css,arduino,docker,git,bash,py,nodejs,postgres,prisma,linux,svelte,cpp,powershell,vscode,express,azure,netlify,sqlite,cloudflare,mysql)](https://skillicons.dev)
+
+
+## 🐧 Linux distros I use:
 
 [![My Skills](https://skillicons.dev/icons?i=raspberrypi,ubuntu,mint)](https://skillicons.dev)
 
-### My Love and Passion:
+
+## My Love and Passion:
 
 <p>📸 My self-hosted photo and video server @ <a href="https://immich.batchelornz.com">immich.batchelornz.com</a>🎥</p>
 
-### Projects:
-<p>🌐🪐 My first live production website developed using Svelte @ <a href="https://solsys.batchelornz.com">solsys.batchelornz.com</a></p>
-<p>🌍🚨 A disaster management system website project @ <a href="http://dma-nz.duckdns.org">Disaster Management Aotearoa</a></p>
-<p>🌱💦 Smart irrigation system for plants called <a href="https://github.com/batcsg1/PlantMate">PlantMate</a></p>
-<p>{ : } 🪐<a href="https://celestidb.onrender.com/api-docs">celestiDB</a> — a RESTful API for exploring and finding stuff about the universe.</p>
-<p><a href="https://github.com/batcsg1/Odyssey">Odyssey</a> - a website where you can view and add to info all about the solar system and beyond.</p>
+
+## Projects:
+
+| Project | Role | Description | Tools |
+| -------- | ------- | ------- | ------- |
+| <a href="https://solsys.batchelornz.com">The Solar System</a> | Solo Web Developer | 🌐🪐 My first live production website developed using Svelte | Svelte, CSS, HTML, JavaScript |
+| <a href="http://dma-nz.duckdns.org">Disaster Management Aotearoa</a> | Deployment/Infrastructure Engineer | 🌍🚨 A disaster management system website project | Svelte, CSS, HTML, JavaScript, Docker, Agile, Git Kanban, PostgreSQL, REST API |
+| <a href="https://github.com/batcsg1/PlantMate">PlantMate</a> | Solo Engineer | 🌱💦 Smart irrigation system and environmental monitor for plants | C++, Arduino, I2C |
+| <a href="https://celestidb.onrender.com/api-docs">celestiDB</a> | Solo Web Developer | 🪐 a RESTful API for exploring and finding stuff about the universe. | Svelte, CSS, HTML, JavaScript, Docker, PostgreSQL, REST API |
+| <a href="https://github.com/batcsg1/Odyssey">Odyssey</a> | Solo Web Developer | A website where you can view and add to info all about the solar system and beyond. | Svelte, CSS, HTML, JavaScript, Docker, PostgreSQL, REST API |
+
