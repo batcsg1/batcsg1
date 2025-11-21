@@ -34,10 +34,11 @@ Kia Ora, I'm a 2nd year IT student at <strong>[Otago Polytechnic](https://www.op
 
 ## Specializations:
 
-- 💻 Technical Administrator at [Entire IT](https://entireit.nz), since September 2023
-- 🎓 Peer Tutor at [Otago Polytechnic](https://www.op.ac.nz)
-
-
+| Role | Company | Start Date | End Date |
+| -------- | ------- | ------- | ------- |
+| 💻 Gateway Student | [Entire IT](https://entireit.nz) | 25 July 2023 | 19 September 2023 |
+| 💻 Technical Administrator | [Entire IT](https://entireit.nz) | 25 September 2023 | - |
+| 🎓 Peer Tutor | [Otago Polytechnic](https://www.op.ac.nz) | 23 July 2025 | - |
 
 ## Skillset:
 
@@ -51,27 +52,21 @@ Kia Ora, I'm a 2nd year IT student at <strong>[Otago Polytechnic](https://www.op
 - ☁️ Cloud Computing  
 - ➕ Maths
 
-
-
 ## 📝 Resume: 
 
 <strong>[Check out my resume](https://github.com/user-attachments/files/23383729/Resume.pdf)</strong>
-
 
 ## ⚙️ Technology tools I use:
 
 [![My Skills](https://skillicons.dev/icons?i=cs,js,html,css,arduino,docker,git,bash,py,nodejs,postgres,prisma,linux,svelte,cpp,powershell,vscode,express,azure,netlify,sqlite,cloudflare,mysql)](https://skillicons.dev)
 
-
 ## 🐧 Linux distros I use:
 
 [![My Skills](https://skillicons.dev/icons?i=raspberrypi,ubuntu,mint)](https://skillicons.dev)
 
-
 ## My Love and Passion:
 
 <p>📸 My self-hosted photo and video server @ <a href="https://immich.batchelornz.com">immich.batchelornz.com</a>🎥</p>
-
 
 ## Projects:
 
