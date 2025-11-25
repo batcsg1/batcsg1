@@ -14,7 +14,7 @@
 
 <div align="center">
   
-### Connect with me on:
+### Connect with me on
 
 [![Instagram](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/instagram.svg)](https://www.instagram.com/samuelbatchelor._.2005)
 [![Facebook](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/facebook.svg)](https://www.facebook.com/samuel.batchelor2005)
@@ -26,13 +26,11 @@
 
 </div>
 
-## Intro:
+## About Me:
 
 Kia Ora, I'm a 2nd year IT student at <strong>[Otago Polytechnic](https://www.op.ac.nz)</strong> who is passionate about networks, application development, the cloud, cyber security, programming and in general, how computers work. I am particularly interested in building application and home lab projects not only as a hobby, but also as a way to expand my IT expertise. Alongside studying IT, I am also working as a technical junior. 
 
-
-
-## Specializations:
+## Experience
 
 | Role | Company | Start Date | End Date |
 | -------- | ------- | ------- | ------- |
@@ -40,7 +38,7 @@ Kia Ora, I'm a 2nd year IT student at <strong>[Otago Polytechnic](https://www.op
 | 💻 Technical Administrator | [Entire IT](https://entireit.nz) | 25 September 2023 | - |
 | 🎓 Peer Tutor | [Otago Polytechnic](https://www.op.ac.nz) | 23 July 2025 | - |
 
-## Skillset:
+## Specializations
 
 - 🌐 Networking  
 - 🗄️ Database Management  
@@ -52,23 +50,15 @@ Kia Ora, I'm a 2nd year IT student at <strong>[Otago Polytechnic](https://www.op
 - ☁️ Cloud Computing  
 - ➕ Maths
 
-## 📝 Resume: 
+## ⚙️ Tech Stack
 
-<strong>[Check out my resume](https://github.com/user-attachments/files/23383729/Resume.pdf)</strong>
+[![My Skills](https://skillicons.dev/icons?i=cs,js,html,css,arduino,docker,git,bash,py,nodejs,postgres,prisma,linux,svelte,cpp,powershell,vscode,express,azure,netlify,sqlite,cloudflare,mysql,aws)](https://skillicons.dev)
 
-## ⚙️ Technology tools I use:
-
-[![My Skills](https://skillicons.dev/icons?i=cs,js,html,css,arduino,docker,git,bash,py,nodejs,postgres,prisma,linux,svelte,cpp,powershell,vscode,express,azure,netlify,sqlite,cloudflare,mysql)](https://skillicons.dev)
-
-## 🐧 Linux distros I use:
+## 🐧 Linux distros I use
 
 [![My Skills](https://skillicons.dev/icons?i=raspberrypi,ubuntu,mint)](https://skillicons.dev)
 
-## My Love and Passion:
-
-<p>📸 My self-hosted photo and video server @ <a href="https://immich.batchelornz.com">immich.batchelornz.com</a>🎥</p>
-
-## Projects:
+## Full Stack Projects
 
 | Project | Role | Description | Tools |
 | -------- | ------- | ------- | ------- |
@@ -77,4 +67,14 @@ Kia Ora, I'm a 2nd year IT student at <strong>[Otago Polytechnic](https://www.op
 | <a href="https://github.com/batcsg1/PlantMate">PlantMate</a> | Solo Engineer | 🌱💦 Smart irrigation system and environmental monitor for plants | C++, Arduino, I2C |
 | <a href="https://celestidb.onrender.com/api-docs">celestiDB</a> | Solo Web Developer | 🪐 a RESTful API for exploring and finding stuff about the universe. | Svelte, CSS, HTML, JavaScript, Docker, PostgreSQL, REST API |
 | <a href="https://github.com/batcsg1/Odyssey">Odyssey</a> | Solo Web Developer | A website where you can view and add to info all about the solar system and beyond. | Svelte, CSS, HTML, JavaScript, Docker, PostgreSQL, REST API |
+
+## 📝 Resume
+
+**[Check out my resume](https://github.com/user-attachments/files/23383729/Resume.pdf)**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=batcsg1&theme=dark)
+
+
+
+
 
