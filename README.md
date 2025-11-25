@@ -1,17 +1,9 @@
 <div align="center">
 <picture>
-<source srcset="https://github.com/user-attachments/assets/e2f4831d-95ff-4956-acef-5448b773ad5a" media="(prefers-color-scheme: dark)">
-<img alt="image" src="https://github.com/user-attachments/assets/d5eea727-48ba-4537-a6ce-5022efede225" />
+<source srcset="https://github.com/user-attachments/assets/29d08c46-0d7a-4550-8437-4c0176e4f427" media="(prefers-color-scheme: dark)">
+<img alt="image" src="https://github.com/user-attachments/assets/1be459f1-e363-430b-a265-d806b6912f19" />
 </picture>
 </div>
-
-<h2 align="center">
-<picture>
-<source srcset="https://github.com/user-attachments/assets/63108358-9e1e-4529-a988-dbe7f8343172" media="(prefers-color-scheme: dark)" height="100">
-<img alt="image" src="https://github.com/user-attachments/assets/5590d888-087f-42d0-ac40-3c07be0f7346" height="100" />
-</picture>
-</h2>
-
 <div align="center">
   
 ### Connect with me on
