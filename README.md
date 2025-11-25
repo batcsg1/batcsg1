@@ -50,15 +50,15 @@ Kia Ora, I'm a 2nd year IT student at <strong>[Otago Polytechnic](https://www.op
 
 [![My Skills](https://skillicons.dev/icons?i=raspberrypi,ubuntu,mint)](https://skillicons.dev)
 
-## Full Stack Projects
+## Projects
 
 | Project | Role | Description | Tools |
 | -------- | ------- | ------- | ------- |
-| <a href="https://solsys.batchelornz.com">The Solar System</a> | Solo Web Developer | 🌐🪐 My first live production website developed using Svelte | Svelte, CSS, HTML, JavaScript |
-| <a href="http://dma-nz.duckdns.org">Disaster Management Aotearoa</a> | Deployment/Infrastructure Engineer | 🌍🚨 A disaster management system website project | Svelte, CSS, HTML, JavaScript, Docker, Agile, Git Kanban, PostgreSQL, REST API |
-| <a href="https://github.com/batcsg1/PlantMate">PlantMate</a> | Solo Engineer | 🌱💦 Smart irrigation system and environmental monitor for plants | C++, Arduino, I2C |
-| <a href="https://celestidb.onrender.com/api-docs">celestiDB</a> | Solo Web Developer | 🪐 a RESTful API for exploring and finding stuff about the universe. | Svelte, CSS, HTML, JavaScript, Docker, PostgreSQL, REST API |
-| <a href="https://github.com/batcsg1/Odyssey">Odyssey</a> | Solo Web Developer | A website where you can view and add to info all about the solar system and beyond. | Svelte, CSS, HTML, JavaScript, Docker, PostgreSQL, REST API |
+| <a href="https://solsys.batchelornz.com">**The Solar System**</a> | Solo Web Developer | 🌐🪐 My first live production website developed using Svelte | [![](https://skillicons.dev/icons?i=js,html,css,git,svelte,netlify)](https://skillicons.dev) |
+| <a href="http://dma-nz.duckdns.org">**Disaster Management Aotearoa**</a> | Deployment/Infrastructure Engineer | 🌍🚨 A disaster management system website project | [![](https://skillicons.dev/icons?i=cs,js,html,css,git,svelte,docker,postgres,linux,nodejs,express)](https://skillicons.dev) |
+| <a href="https://github.com/batcsg1/PlantMate">**PlantMate**</a> | Solo Engineer | 🌱💦 Smart irrigation system and environmental monitor for plants | [![](https://skillicons.dev/icons?i=cpp,arduino)](https://skillicons.dev) |
+| <a href="https://celestidb.onrender.com/api-docs">**celestiDB**</a> | Solo Web Developer | 🪐 a RESTful API for exploring and finding stuff about the universe. | [![](https://skillicons.dev/icons?i=js,html,css,git,postgres,docker,express,nodejs)](https://skillicons.dev) |
+| <a href="https://github.com/batcsg1/Odyssey">**Odyssey**</a> | Solo Web Developer | A website where you can view and add to info all about the solar system and beyond. | [![](https://skillicons.dev/icons?i=svelte,js,html,css,git,postgres,docker,express,nodejs)](https://skillicons.dev) |
 
 ## 📝 Resume
 
