@@ -1,7 +1,7 @@
 <div align="center">
 <picture>
 <source srcset="https://github.com/user-attachments/assets/29d08c46-0d7a-4550-8437-4c0176e4f427" media="(prefers-color-scheme: dark)">
-<img alt="image" src="https://github.com/user-attachments/assets/1be459f1-e363-430b-a265-d806b6912f19" />
+<img alt="image" src="https://github.com/user-attachments/assets/1be459f1-e363-430b-a265-d806b6912f19" height=250 />
 </picture>
 </div>
 <div align="center">
