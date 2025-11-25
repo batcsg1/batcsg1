@@ -72,6 +72,8 @@ Kia Ora, I'm a 2nd year IT student at <strong>[Otago Polytechnic](https://www.op
 
 **[Check out my resume](https://github.com/user-attachments/files/23383729/Resume.pdf)**
 
+## GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=batcsg1&theme=dark)
 
 
