@@ -20,7 +20,7 @@
 
 ## About Me
 
-Kia Ora, I'm a 2nd year IT student at <strong>[Otago Polytechnic](https://www.op.ac.nz)</strong> who is passionate about networks, application development, the cloud, cyber security, programming and in general, how computers work. I am particularly interested in building application and home lab projects not only as a hobby, but also as a way to expand my IT expertise. Alongside studying IT, I am also working as a technical junior. 
+Kia Ora, I'm a **3rd** year IT student at <strong>[Otago Polytechnic](https://www.op.ac.nz)</strong> who is passionate about networks, application development, the cloud, cyber security, programming and in general, how computers work. I am particularly interested in building application and home lab projects not only as a hobby, but also as a way to expand my IT expertise. Alongside studying IT, I am also working as a technical junior. 
 
 ## Experience
 
