@@ -1,8 +1,5 @@
 <div align="center">
-<picture>
-<source srcset="https://github.com/user-attachments/assets/7c05f28d-2efb-4301-b9be-863533f2ee8c" media="(prefers-color-scheme: dark)">
-<img alt="image" src="https://github.com/user-attachments/assets/52a11cbd-ac6f-4c1c-9ff1-1a8ae01d0d8d" height=250 />
-</picture>
+<img height="250" alt="image" src="https://github.com/user-attachments/assets/025a5c0f-6d10-4fd7-8ae5-e91e6c955845" />
 </div>
 <div align="center">
   
