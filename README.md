@@ -29,11 +29,11 @@ Kia Ora, I'm a **3rd** year IT student at <strong>[Otago Polytechnic](https://ww
 
 ## Specializations
 
-- 🌐 Networking  
+- 🌐 Networking
+- 💻 Programming
 - 🗄️ Database Management  
 - 🎨 Frontend Development  
-- ⚙️ Backend Development  
-- 💻 Programming  
+- ⚙️ Backend Development   
 - 🛡️ Cyber Security  
 - 🐧 Linux Systems  
 - ☁️ Cloud Computing  
