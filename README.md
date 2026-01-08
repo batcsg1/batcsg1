@@ -15,6 +15,26 @@
 
 </div>
 
+```js
+const batcsg1 = new Person("Samuel", "Batchelor", 2005)
+
+batcsg1.greet();
+// Hello, my name is Samuel Batchelor and I am 20 years old.
+
+// My daily grind
+if (batcsg1.coding()){
+    batcsg1.headphones = true;
+    batcsg1.focus = 100;
+    batcsg1.conversation = null;
+} else {
+    batcsg1.eat();
+    batcsg1.nap();
+    batcsg1.procrastinate();
+    batcsg1.gardening();
+    batcsg1.sleep();
+}
+```
+
 ## About Me
 
 Kia Ora, I'm a **3rd** year IT student at <strong>[Otago Polytechnic](https://www.op.ac.nz)</strong> who is passionate about programming and just in general, how computers work. I am particularly interested in building application and home lab projects not only as a hobby, but also as a way to expand my IT expertise.
