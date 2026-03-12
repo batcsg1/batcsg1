@@ -37,7 +37,7 @@ if (batcsg1.coding()){
 
 ## About Me
 
-Kia Ora, I'm a **3rd** year IT student at <strong>[Otago Polytechnic](https://www.op.ac.nz)</strong> who is passionate about programming and just in general, how computers work. I am particularly interested in building application and home lab projects not only as a hobby, but also as a way to expand my IT expertise.
+Kia Ora, I'm a **3rd** year IT student at <strong>[Otago Polytechnic](https://www.op.ac.nz)</strong> who is passionate about all things DevOps, programming and just in general, how computers work. I am particularly interested in building application and home lab projects not only as a hobby, but also as a way to expand my IT expertise.
 
 ## Experience
 
@@ -46,6 +46,7 @@ Kia Ora, I'm a **3rd** year IT student at <strong>[Otago Polytechnic](https://ww
 | 💻 Gateway Student | [Entire IT](https://entireit.nz) | 25 July 2023 | 19 September 2023 |
 | 💻 Technical Administrator | [Entire IT](https://entireit.nz) | 25 September 2023 | - |
 | 🎓 Peer Tutor | [Otago Polytechnic](https://www.op.ac.nz) | 23 July 2025 | - |
+| 🎓 Teaching Assistant | [Otago Polytechnic](https://www.op.ac.nz) | 25 February 2026 | - |
 
 ## Specializations
 
