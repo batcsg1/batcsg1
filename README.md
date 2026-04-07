@@ -5,11 +5,8 @@
   
 ### Connect with me on
 
-[![Instagram](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/instagram.svg)](https://www.instagram.com/samuelbatchelor._.2005)
 [![Facebook](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/facebook.svg)](https://www.facebook.com/samuel.batchelor2005)
 [![LinkedIn](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/linkedin.svg)](https://www.linkedin.com/in/samuel-batchelor-nz)
-[![Youtube](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/youtube.svg)](https://www.youtube.com/@samuelbatchelor6894)
-[![X](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/twitter-x.svg)](https://x.com/GutterTweet)
 [![Reddit](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/reddit.svg)](https://www.reddit.com/user/TV_Jello1O1/)
 [![Discord](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/discord.svg)](https://discord.com/users/611766037708275723)
 
