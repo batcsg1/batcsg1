@@ -34,7 +34,7 @@ if (batcsg1.coding()){
 
 ## About Me
 
-Kia Ora, I'm a **3rd** year IT student at <strong>[Otago Polytechnic](https://www.op.ac.nz)</strong> who is passionate about all things DevOps, programming and just in general, how computers work. I am particularly interested in building application and home lab projects not only as a hobby, but also as a way to expand my IT expertise.
+Kia Ora, I'm a **3rd** year IT student at <strong>[Otago Polytechnic](https://www.op.ac.nz)</strong> who is passionate about all things DevOps, cybersecurity, the cloud and just in general, how computers work. I am particularly interested in building home lab projects not only as a hobby, but also as a way to expand my IT expertise.
 
 ## Experience
 
