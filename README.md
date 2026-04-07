@@ -63,7 +63,7 @@ Kia Ora, I'm a **3rd** year IT student at <strong>[Otago Polytechnic](https://ww
 
 ## 🐧 Linux Distros I use
 
-[![My Skills](https://skillicons.dev/icons?i=mint,raspberrypi,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,mint,raspberrypi,ubuntu)](https://skillicons.dev)
 
 ## Projects
 
