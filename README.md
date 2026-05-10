@@ -40,10 +40,10 @@ Kia Ora, I'm a **3rd** year IT student at <strong>[Otago Polytechnic](https://ww
 
 | Role | Company | Start Date | End Date |
 | -------- | ------- | ------- | ------- |
-| 💻 Gateway Student | [Entire IT](https://entireit.nz) | 25 July 2023 | 19 September 2023 |
-| 💻 Technical Administrator | [Entire IT](https://entireit.nz) | 25 September 2023 | - |
-| 🎓 Peer Tutor | [Otago Polytechnic](https://www.op.ac.nz) | 23 July 2025 | - |
 | 🎓 Teaching Assistant | [Otago Polytechnic](https://www.op.ac.nz) | 25 February 2026 | - |
+| 🎓 Peer Tutor | [Otago Polytechnic](https://www.op.ac.nz) | 23 July 2025 | - |
+| 💻 Technical Administrator | [Entire IT](https://entireit.nz) | 25 September 2023 | - |
+| 💻 Gateway Student | [Entire IT](https://entireit.nz) | 25 July 2023 | 19 September 2023 |
 
 ## Specializations
 
