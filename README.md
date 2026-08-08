@@ -1,7 +1,7 @@
-<div align="center">
-<img height="250" alt="image" src="./Logo.png"/>
-</div>
-<div align="center">
+
+# /samOS
+
+## I use Debian and Manjaro BTW
   
 ### Connect with me on
 
