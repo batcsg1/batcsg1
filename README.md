@@ -59,7 +59,7 @@ Kia Ora, I'm a **3rd** year IT student at <strong>[Otago Polytechnic](https://ww
 
 ## ⚙️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=cs,js,html,css,arduino,docker,git,bash,py,nodejs,postgres,prisma,linux,svelte,cpp,powershell,vscode,express,azure,netlify,sqlite,cloudflare,mysql,aws,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,js,html,css,arduino,docker,git,bash,typescript,py,nodejs,postgres,prisma,linux,svelte,cpp,powershell,vscode,express,azure,netlify,sqlite,cloudflare,mysql,aws,nginx)](https://skillicons.dev)
 
 ## 🐧 Linux Distros I use
 
