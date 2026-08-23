@@ -237,7 +237,7 @@ Kia Ora, I'm a **3rd** year IT student at <strong>[Otago Polytechnic](https://ww
 
 ## 📝 Resume
 
-**[Check out my resume](https://github.com/user-attachments/files/23383729/Resume.pdf)**
+**[Check out my resume](https://github.com/user-attachments/files/31343338/Samuel.Batchelor.-.Curriculum.Vitae.pdf)**
 
 ## GitHub Stats
 
