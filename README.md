@@ -58,11 +58,171 @@ Kia Ora, I'm a **3rd** year IT student at <strong>[Otago Polytechnic](https://ww
 
 ## ⚙️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=puppet,prometheus,grafana,cs,js,html,css,arduino,docker,git,bash,typescript,py,nodejs,postgres,prisma,linux,svelte,cpp,powershell,vscode,express,azure,nnetlifysqlite,cloudflare,mysql,aws,nginx)](https://skillicons.dev)
+### Primary tools I use
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/puppet" width="40" height="40" alt="Puppet"/><br/>
+      <sub>Puppet</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS"/><br/>
+      <sub>AWS</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Azure"/><br/>
+      <sub>Azure</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/gnubash" width="40" height="40" alt="Bash"/><br/>
+      <sub>Bash</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/git" width="40" height="40" alt="Git"/><br/>
+      <sub>Git</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/linux" width="40" height="40" alt="Linux"/><br/>
+      <sub>Linux</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/docker" width="40" height="40" alt="Docker"/><br/>
+      <sub>Docker</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/python" width="40" height="40" alt="Python"/><br/>
+      <sub>Python</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/typescript" width="40" height="40" alt="TypeScript"/><br/>
+      <sub>TypeScript</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/react" width="40" height="40" alt="React"/><br/>
+      <sub>React</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="40" height="40" alt="PowerShell"/><br/>
+      <sub>PowerShell</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="SQL Server"/><br/>
+      <sub>SQL Server</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/cloudflare" width="40" height="40" alt="Cloudflare"/><br/>
+      <sub>Cloudflare</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/prometheus" width="40" height="40" alt="Prometheus"/><br/>
+      <sub>Prometheus</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/grafana" width="40" height="40" alt="Grafana"/><br/>
+      <sub>Grafana</sub>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+### Other tools I use
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cs" width="40" height="40" alt="C#"/><br/>
+      <sub>C#</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript"/><br/>
+      <sub>JavaScript</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML"/><br/>
+      <sub>HTML</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS"/><br/>
+      <sub>CSS</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=arduino" width="40" height="40" alt="Arduino"/><br/>
+      <sub>Arduino</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js"/><br/>
+      <sub>Node.js</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL"/><br/>
+      <sub>PostgreSQL</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=prisma" width="40" height="40" alt="Prisma"/><br/>
+      <sub>Prisma</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=svelte" width="40" height="40" alt="Svelte"/><br/>
+      <sub>Svelte</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++"/><br/>
+      <sub>C++</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code"/><br/>
+      <sub>VS Code</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express"/><br/>
+      <sub>Express</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=netlify" width="40" height="40" alt="Netlify"/><br/>
+      <sub>Netlify</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="SQLite"/><br/>
+      <sub>SQLite</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL"/><br/>
+      <sub>MySQL</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nginx" width="40" height="40" alt="Nginx"/><br/>
+      <sub>Nginx</sub>
+    </td>
+  </tr>
+</table>
 
 ## 🐧 Linux Distros I use
 
-[![My Skills](https://skillicons.dev/icons?i=debian,arch,raspberrypi,ubuntu)](https://skillicons.dev)
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=debian" width="40" height="40" alt="Debian"/><br/>
+      <sub>Debian</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=arch" width="40" height="40" alt="Arch Linux"/><br/>
+      <sub>Arch Linux</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=raspberrypi" width="40" height="40" alt="Raspberry Pi"/><br/>
+      <sub>Raspberry Pi</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ubuntu" width="40" height="40" alt="Ubuntu"/><br/>
+      <sub>Ubuntu</sub>
+    </td>
+  </tr>
+</table>
 
 ## Projects
 
