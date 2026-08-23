@@ -1,7 +1,6 @@
 
 # /samOS
 
-## I use Debian and Manjaro BTW
   
 ### Connect with me on
 
