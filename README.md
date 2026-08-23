@@ -1,6 +1,7 @@
 
 # /samOS
 
+## 🐧 Linux is Love, Linux is Life (Li❤️, Li🌱) 
   
 ### Connect with me on
 
