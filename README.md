@@ -1,5 +1,6 @@
 
-# /samOS
+<img width="1851" height="468" alt="image" src="https://github.com/user-attachments/assets/d5b24697-4881-4f2f-af6a-416cba8c6eb0" />
+
 
 ## 🐧 _Linux is Love, Linux is Life_ 
   
