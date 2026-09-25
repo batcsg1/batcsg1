@@ -126,7 +126,10 @@ Kia Ora, I'm a **3rd** year IT student at <strong>[Otago Polytechnic](https://ww
       <img src="https://cdn.simpleicons.org/grafana" width="40" height="40" alt="Grafana"/><br/>
       <sub>Grafana</sub>
     </td>
-    <td></td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/kubernetes" width="40" height="40" alt="Kubernetes"/><br/>
+      <sub>Kubernetes</sub>
+    </td>
   </tr>
 </table>
 
