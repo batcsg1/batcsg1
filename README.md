@@ -48,14 +48,14 @@ Kia Ora, I'm a **3rd** year IT student at <strong>[Otago Polytechnic](https://ww
 
 ## Specializations
 
-- 💻 Programming
+- 🐧 Linux Systems  
+- ☁️ Cloud Computing  
+- 💻 Programming 
 - 🌐 Networking  
 - 🎨 Frontend Development
 - 🗄️ Database Management 
 - ⚙️ Backend Development   
-- 🛡️ Cyber Security  
-- 🐧 Linux Systems  
-- ☁️ Cloud Computing  
+
 - ➕ Maths
 
 ## ⚙️ Tech Stack
