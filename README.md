@@ -1,5 +1,5 @@
 
-<img width="1851" height="468" alt="image" src="https://github.com/user-attachments/assets/d5b24697-4881-4f2f-af6a-416cba8c6eb0" />
+<img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/99c97ccf-a757-4dc9-8524-8a7b37eba308" />
 
 
 ## 🐧 _Linux is Love, Linux is Life_ 
