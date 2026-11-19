@@ -17,7 +17,7 @@
 const batcsg1 = new Person("Samuel", "Batchelor", 2005)
 
 batcsg1.greet();
-// Hello, my name is Samuel Batchelor and I am 20 years old.
+// Hello, my name is Samuel Batchelor and I am 21 years old.
 
 // My daily grind
 if (batcsg1.coding()){
@@ -41,7 +41,7 @@ Kia Ora, I'm a **3rd** year IT student at <strong>[Otago Polytechnic](https://ww
 
 | Role | Company | Start Date | End Date |
 | -------- | ------- | ------- | ------- |
-| 🎓 Teaching Assistant | [Otago Polytechnic](https://www.op.ac.nz) | 25 February 2026 | - |
+| 🎓 Teaching Assistant | [Otago Polytechnic](https://www.op.ac.nz) | 25 February 2026 | 19 November 2026 |
 | 🎓 Peer Tutor | [Otago Polytechnic](https://www.op.ac.nz) | 23 July 2025 | 14 July 2026 |
 | 💻 Technical Administrator | [Entire IT](https://entireit.nz) | 25 September 2023 | - |
 | 💻 Gateway Student | [Entire IT](https://entireit.nz) | 25 July 2023 | 19 September 2023 |
